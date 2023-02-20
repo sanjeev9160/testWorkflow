@@ -1,7 +1,6 @@
 # This is a basic workflow that is manually triggered
 
 name: Duplicate Manual Workflow
-run-name: Deploy to ${{ inputs.deploy_target }} by @${{ github.actor }}
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
